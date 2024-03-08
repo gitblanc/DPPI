@@ -1,0 +1,46 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLDeployment</id><coordinates><x>449</x><y>480</y><w>200</w><h>130</h></coordinates><panel_attributes>Servidor Web Coorporativo
+group=group-2
+bg=#ABBDCD</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>689</x><y>190</y><w>390</w><h>120</h></coordinates><panel_attributes>Equipos de control
+group=group-3
+bg=#5ced73</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>699</x><y>240</y><w>160</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+App Cuadro de mandos
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>869</x><y>240</y><w>190</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+Cuadro de mandos (Ordenador)
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>459</x><y>540</y><w>170</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+Dashboard
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>449</x><y>190</y><w>200</w><h>120</h></coordinates><panel_attributes>Móvil cliente
+group=group-0
+bg=#C1AEC5</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>449</x><y>330</y><w>200</w><h>130</h></coordinates><panel_attributes>Móvil transportista
+group=group-1
+bg=#CAC1B1</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>459</x><y>390</y><w>170</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+Geoposicionamiento
+group=group-1</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>459</x><y>240</y><w>170</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+App de móvil
+group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>689</x><y>330</y><w>390</w><h>190</h></coordinates><panel_attributes>Servidor
+group=group-4
+bg=#FF7F7F</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>699</x><y>370</y><w>190</w><h>60</h></coordinates><panel_attributes>symbol=component
+bg=#FF7F7F
+
+Middleware de Mensajería
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>699</x><y>450</y><w>190</w><h>60</h></coordinates><panel_attributes>symbol=component
+bg=#FF7F7F
+
+Middleware de Localización
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>899</x><y>370</y><w>160</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+Gestion de usuarios
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>899</x><y>450</y><w>160</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+API Comunicaciones
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>689</x><y>530</y><w>390</w><h>80</h></coordinates><panel_attributes>Servidores de salud pública
+group=group-5
+bg=#ffea98</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>709</x><y>570</y><w>160</w><h>30</h></coordinates><panel_attributes>symbol=component
+HIS
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>889</x><y>570</y><w>160</w><h>30</h></coordinates><panel_attributes>symbol=component
+Otros sistemas
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element></diagram>
