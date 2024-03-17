@@ -1,0 +1,51 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLPackage</id><coordinates><x>180</x><y>100</y><w>230</w><h>240</h></coordinates><panel_attributes>End User Apps
+--
+group=group-1
+bg=#CAC1B1</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>440</x><y>100</y><w>390</w><h>230</h></coordinates><panel_attributes>Backend
+--
+group=group-0
+bg=#C1AEC5</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>440</x><y>340</y><w>390</w><h>170</h></coordinates><panel_attributes>Equipos de gestión
+--
+bg=#5ced73
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>610</x><y>130</y><w>210</w><h>190</h></coordinates><panel_attributes>Middlewares
+--
+bg=#FF7F7F
+group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>620</x><y>170</y><w>190</w><h>60</h></coordinates><panel_attributes>symbol=component
+bg=#FF7F7F
+
+Middleware de Localización
+group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>620</x><y>240</y><w>190</w><h>60</h></coordinates><panel_attributes>symbol=component
+bg=#FF7F7F
+
+Middleware de Mensajería
+group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>460</x><y>440</y><w>350</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+Cuadro de mandos (Ordenador)
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>460</x><y>370</y><w>170</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+App Cuadro de mandos
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>650</x><y>370</y><w>160</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+Dashboard
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>450</x><y>130</y><w>150</w><h>190</h></coordinates><panel_attributes>symbol=component
+
+Gestion de usuarios
+group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>460</x><y>180</y><w>130</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+Gestion de avisos
+group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>460</x><y>250</y><w>130</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+Gestion de mensajería
+group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>190</x><y>150</y><w>210</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+App de móvil
+group=group-1</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>190</x><y>240</y><w>210</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+Geoposicionamiento de vehículos
+group=group-1</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>180</x><y>370</y><w>230</w><h>140</h></coordinates><panel_attributes>API acceso servicios
+--
+bg=orange
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>190</x><y>420</y><w>210</w><h>60</h></coordinates><panel_attributes>symbol=component
+
+Api de Comunicaciones
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element></diagram>
